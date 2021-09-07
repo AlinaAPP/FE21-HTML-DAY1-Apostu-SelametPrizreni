@@ -1,0 +1,53 @@
+<!DOCTYPE HTML> 
+<html lang="en"> 
+   <head >
+       <meta charset= "utf-8"> 
+       <title>City of God fanpage</title>   
+   </head> 
+   
+   <body background='https://media.istockphoto.com/photos/light-blue-wooden-planks-picture-id508462888?k=6&m=508462888&s=612x612&w=0&h=jed3bF5y8LamHHc0MxAFDQWry5ayWJLJuNVF7iP4A_s='>
+       <header>
+       <figure>
+          <center>
+       <img src="https://media.istockphoto.com/photos/colorful-film-frames-picture-id1128972831?k=6&m=1128972831&s=612x612&w=0&h=1zJLMfKnA5ZzGKmnM2Vod6-NwYLa3NwAqRrCRDbEicg=" width='90%' height="70%" style="opacity:0.9;">
+         <figcaption>  </figcaption>
+          </center>
+         </figure>
+       </header>
+   <main>
+   <h1> My City of God fanpage </h1>
+   <div>
+   <p> I dont even know what it looks like now.. </p>
+   </div>
+   <aside> 
+      <h1> <bdo dir="ltr">click below for more!</bdo dir="ltr"></h1>  
+           <h1><bdo dir="ltr">Trailer & more info</bdo dir="ltr"></h1>
+           <a href="https://www.imdb.com/video/vi1783208985?playlistId=tt0317248&ref_=tt_ov_vi"><strong><bdo dir="ltr">Movie Trailer</bdo dir="ltr"></strong></a>
+           <a href="https://www.imdb.com/title/tt0317248/fullcredits"><strong><bdo dir="ltr">Cast & Crew</bdo dir="ltr"></strong></a>
+        <p> <bdo dir="ltr"><i> source Imdb </i> </bdo dir="ltr"> </p>                                                                                                      
+      </aside>
+      
+       <figure>
+          
+           <img src="https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_DE/constantin_film-C00011475-Full-Image_GalleryCover-de-DE-1493422224002._UY500_UX667_RI_V58bbd90563a4dffc9b24f7a6ab64d0d3_TTW_.jpg" width="50%" height="100%" style=float:left;>
+          <h3>  Written by <a href="https://www.imdb.com/name/nm0513130/?ref_=ttfc_fc_wr1"> Paulo Lins </a> </h3>
+           <img src="https://m.media-amazon.com/images/M/MV5BMTc5MzkzNzk5MV5BMl5BanBnXkFtZTcwMjc4MTE5Ng@@._V1_.jpg" width="50%" height="50%"style=float:left;>
+          
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZm3-u3WP2zloByOhcolBNvRfl-dkk5BYJspI15FgFKzP9xu_ppOZgfROPBj7wAF9K-w4&usqp=CAU" width="50%" height="50%"style=float:right;>
+          <img src="https://blog.indiegala.com/wp-content/uploads/2020/09/city_god-1.jpg" width="50%" height="50%"style=float:left;>
+          <figcaption>city of god cover</figcaption>
+       </figure>
+      <div>
+       <ul>
+          <h2 >Other movies written by Paulo Lins</h2>
+           <li><a href="https://www.youtube.com/watch?v=fTX9BuWTxv8"> City of Men </a></li>
+           <li><a href="https://www.youtube.com/watch?v=jVP2N9CSte4"> Quase Dois Irmãos </a></li>
+       </ul>
+      </div>
+      
+       </main>
+       <footer>
+          <p><em>webpage in progress..</em></p>
+  </footer>  
+   </body>
+</html>
