@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+<body>
+    <h1>Do you want to adopt a child?</h1>
+    <p>If your answer is <strong>Yes</strong> then please fill in the below <em>Contact Form:</em></p>
+    <form>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="your full name">   
+        <br>
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="your full email address">
+        <br>
+        <label for="qnt">How many children do you want to adopt?</label>
+        <input type="number" id="qnt" name="number" min="1" max="3">
+        <br>
+        <p>Do you want a boy, a girl or it doesn't matter?</p>
+        <input type="checkbox" name="gender" value="girl"> Girl
+        <input type="checkbox" name="gender" value="boy"> Boy
+        <input type="checkbox" name="gender" value="others"> Others
+        <br>
+        <p>Additional information</p>
+        <textarea name="info" cols="30" rows="10" placeholder="You can add your comments here..."></textarea>
+        <br>
+        <input type="submit" value="Submit button">
+    </form>
+</body>
+</html>
